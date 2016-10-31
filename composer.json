@@ -1,0 +1,16 @@
+{
+  "name": "jchavarr1/propel",
+  "require": {
+      "propel/propel": "^2.0@dev"
+  },
+  "authors": [
+      {
+          "name": "Jaime Chavarriaga",
+          "email": "jaime.chavarriaga@gmail.com"
+      }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+   "classmap": ["generated-classes/"]
+  }
+}
